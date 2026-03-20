@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi, I'm Jaex 👋
 
-<!--
-**Jaex/Jaex** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm the developer of **[ShareX](https://github.com/ShareX/ShareX)**, a free and open source screen capture, file sharing, and productivity tool for Windows.
 
-Here are some ideas to get you started:
+I like building software that is practical, lightweight, secure, and genuinely useful in day to day workflows.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Main focus
+
+For many years, my main focus has been building and maintaining tools that help people work faster, especially power users, developers, creators, and anyone who spends a lot of time on their desktop.
+
+## Projects
+
+### [ShareX](https://github.com/ShareX/ShareX)
+My best known project.  
+A powerful open source tool for screen capture, screen recording, file sharing, OCR, annotation, and productivity workflows.
+
+### [ShareX Image Editor](https://github.com/ShareX/ShareX.ImageEditor)
+A new project I'm currently working on. It is designed with modern UI and UX in mind, while also being feature rich and practical for everyday use.
+
+## What I care about
+
+I care about building powerful software that stays free and accessible, without ads or unnecessary friction.
+
+I value security, lightweight design, and features that solve real problems in everyday workflows.
+
+Thanks for visiting my profile.
